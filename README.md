@@ -17,7 +17,7 @@ This repository demonstrates the **Composition of Compositions** pattern in Cros
 
 ```
 ┌─────────────────────────────────────────────────┐
-│  Azure Landing Zone XR (Top Level)             │
+│  Azure Landing Zone XR (Top Level)              │
 │  - Networking XR                                │
 │  - Security XR                                  │
 │  - Monitoring XR                                │
